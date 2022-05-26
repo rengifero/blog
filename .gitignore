@@ -114,3 +114,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .vscode
+
+#Readme old
+README.md_old
